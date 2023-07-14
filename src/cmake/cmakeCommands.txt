@@ -1,0 +1,14 @@
+Como cria projeto !!!
+
+Arquivos Necessarios
+
+1 - Cmake
+2 - mingw ou gnu make
+
+Procedimento
+
+1 - Crie um arquivo CmakeList.txt fora da pasta builds
+1 - Configure o arquivo
+2 - Entre na pasta build
+3 - Rode o commando cmake -G "MinGW Makefiles" (diretorio do CMakeLists.txt)
+4 - Rode o comando mingw32-make

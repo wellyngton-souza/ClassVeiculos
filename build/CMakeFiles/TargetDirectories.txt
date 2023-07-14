@@ -1,0 +1,3 @@
+C:/Users/wellyngton/Downloads/ClassVeiculos/build/CMakeFiles/hello.dir
+C:/Users/wellyngton/Downloads/ClassVeiculos/build/CMakeFiles/edit_cache.dir
+C:/Users/wellyngton/Downloads/ClassVeiculos/build/CMakeFiles/rebuild_cache.dir
